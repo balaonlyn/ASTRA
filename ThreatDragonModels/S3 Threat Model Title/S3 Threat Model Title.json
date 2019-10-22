@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "S3 Threat Model Title",
+    "owner": "Balaji",
+    "description": "S3 threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Brian"
+  }
+}
